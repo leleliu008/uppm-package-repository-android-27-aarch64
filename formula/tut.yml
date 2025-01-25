@@ -1,0 +1,5 @@
+summary: TUI for Mastodon with vim inspired keys
+webpage: https://tut.anv.nu
+version: 2.0.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/tut-2.0.1-android-27-arm64-v8a.release.tar.xz
+bin-sha: e3aa6122a09467c4b52c50d7c0c8a9d8e1e58ef9ec24b8104b1d781c89098793

@@ -1,0 +1,5 @@
+summary: Numeric library for complex error functions
+webpage: https://jugit.fz-juelich.de/mlz/libcerf
+version: 2.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/libcerf-2.4-android-27-arm64-v8a.release.tar.xz
+bin-sha: 3cfd93a26cd051d571258aaaedd13173523e5bde0d434d8beb4d5cc7c03b8409

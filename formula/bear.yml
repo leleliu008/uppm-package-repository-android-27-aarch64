@@ -1,0 +1,5 @@
+summary: Generate compilation database for clang tooling
+webpage: https://github.com/rizsotto/Bear
+version: 3.1.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/bear-3.1.5-android-27-arm64-v8a.release.tar.xz
+bin-sha: e3ffc2d32f22498ead22b4cdcc360af7a12246059261c3351362c4097ea671bb

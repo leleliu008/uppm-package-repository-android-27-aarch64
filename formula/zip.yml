@@ -1,0 +1,5 @@
+summary: Compression and file packaging/archive utility
+webpage: https://infozip.sourceforge.io/Zip.html
+version: 3.0.11
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/zip-3.0.11-android-27-arm64-v8a.release.tar.xz
+bin-sha: 48846e76a0381091f4f41c79d5c5a09b8dd0f92a9880468c799dbfb90b2a0a55

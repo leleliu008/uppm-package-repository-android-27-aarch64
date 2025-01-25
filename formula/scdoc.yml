@@ -1,0 +1,5 @@
+summary: A small man page generator
+webpage: https://sr.ht/~sircmpwn/scdoc/
+version: 1.11.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/scdoc-1.11.3-android-27-arm64-v8a.release.tar.xz
+bin-sha: 84edd8fe5694d2ce13c7b0c0c683af68dc59e608104f031c5184447b7a07db0a

@@ -1,0 +1,5 @@
+summary: International domain name library
+webpage: https://www.gnu.org/software/libidn/
+version: 1.42
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/libidn-1.42-android-27-arm64-v8a.release.tar.xz
+bin-sha: 5e3acd71d3cf3cb1923e00fb7a69e07304abbb7efda90849f78ca565d74aa232

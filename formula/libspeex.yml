@@ -1,0 +1,5 @@
+summary: Audio codec designed for speech
+webpage: https://speex.org
+version: 1.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/libspeex-1.2.1-android-27-arm64-v8a.release.tar.xz
+bin-sha: a5ccbb5fdb1c97a2d0602ab337cd7ba51115e02e4f4f0b4cba075441c07240cf

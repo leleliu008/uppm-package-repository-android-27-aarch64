@@ -1,0 +1,5 @@
+summary: Go implementation of the Ethereum protocol
+webpage: https://geth.ethereum.org/
+version: 1.14.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/ethereum-1.14.5-android-27-arm64-v8a.release.tar.xz
+bin-sha: d5569e9adf1c9f94b3c96658465323961a78200e89e1731492502b75a3e9ce91

@@ -1,0 +1,5 @@
+summary: Utility for directing compilation
+webpage: https://www.gnu.org/software/make
+version: 4.4.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/gmake-4.4.1-android-27-arm64-v8a.release.tar.xz
+bin-sha: e3e125b07d055c75333efcf83558c90f21b2feb2f4bc3047c01f1f3b4f3ee595

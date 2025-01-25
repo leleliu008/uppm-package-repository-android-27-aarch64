@@ -1,0 +1,5 @@
+summary: Open source, general-purpose policy engine
+webpage: https://www.openpolicyagent.org
+version: 0.65.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/opa-0.65.0-android-27-arm64-v8a.release.tar.xz
+bin-sha: 084839cde08603796d12b57aa710d0a1461ac903affee36d00ce8560b34641c6

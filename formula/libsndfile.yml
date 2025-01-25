@@ -1,0 +1,5 @@
+summary: C library for reading and writing files containing sampled sound (such as MS Windows WAV and the Apple/SGI AIFF format)
+webpage: http://libsndfile.github.io/libsndfile/
+version: 1.2.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/libsndfile-1.2.2-android-27-arm64-v8a.release.tar.xz
+bin-sha: 62195be36de2498b7a33ba663646e38344d18bcf6a88df45f6801a7c9d19b468

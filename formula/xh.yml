@@ -1,0 +1,5 @@
+summary: A friendly and fast tool for sending HTTP requests
+webpage: https://github.com/ducaale/xh
+version: 0.23.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/xh-0.23.1-android-27-arm64-v8a.release.tar.xz
+bin-sha: c3191e2ef2cde7923fdc6beef9d91a673c594c31f114c404d5854bec822f4b1c

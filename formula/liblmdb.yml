@@ -1,0 +1,5 @@
+summary: An extraordinarily fast, memory-efficient, memory-mapped, key-value database
+webpage: https://symas.com/lmdb
+version: 0.9.33
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/liblmdb-0.9.33-android-27-arm64-v8a.release.tar.xz
+bin-sha: 4a1a0d91eca27bc1567e0133426b20f0c5f22e655f10fcf4900e4b68f2c7f581

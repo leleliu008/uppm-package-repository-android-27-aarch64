@@ -1,0 +1,5 @@
+summary: Vector graphics library with cross-device output support
+webpage: https://cairographics.org/
+version: 1.18.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/cairo-1.18.0-android-27-arm64-v8a.release.tar.xz
+bin-sha: 3efa1c67308f14f09e7c5652ac36e74eb7277f52b6af7831f981f13da2617dba

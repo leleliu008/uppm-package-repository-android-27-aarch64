@@ -1,0 +1,5 @@
+summary: line breaking and word breaking algorithms
+webpage: https://github.com/adah1972/libunibreak
+version: 6.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/libunibreak-6.1-android-27-arm64-v8a.release.tar.xz
+bin-sha: 51fd50ed006dabc7d7e5768311686ae6f34477f581dc95fe890c769cc3674b92

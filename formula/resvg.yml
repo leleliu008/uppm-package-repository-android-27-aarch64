@@ -1,0 +1,5 @@
+summary: A command-line tool to convert SVG to PNG
+webpage: https://github.com/RazrFalcon/resvg
+version: 0.42.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/resvg-0.42.0-android-27-arm64-v8a.release.tar.xz
+bin-sha: 9babfed81fd050f97484539e8d117c27933821e896f550c6a2a6e7fe7721955a

@@ -1,0 +1,5 @@
+summary: A real-time compression utility with high compression ratios
+webpage: https://facebook.github.io/zstd
+version: 1.5.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/zstd-1.5.6-android-27-arm64-v8a.release.tar.xz
+bin-sha: 20a1a144c78053f28f35aafcac8c9d3812ed60c8db4d60d6853414525df25bfb

@@ -1,0 +1,5 @@
+summary: Library making programming with POSIX capabilities easier than traditional libcap
+webpage: https://people.redhat.com/sgrubb/libcap-ng
+version: 0.8.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/libcap-ng-0.8.5-android-27-arm64-v8a.release.tar.xz
+bin-sha: 005411c285268886bfc77c724dc8569b133c5b27aa5716ca789cbd06b9671aeb

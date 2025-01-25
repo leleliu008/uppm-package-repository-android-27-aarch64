@@ -1,0 +1,5 @@
+summary: Shell plugin manager
+webpage: https://getantibody.github.io/
+version: 6.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/antibody-6.1.1-android-27-arm64-v8a.release.tar.xz
+bin-sha: f02efd24cc588dac70d4449758419c8f05717f14af2671208af8c77ef9097ec4

@@ -1,0 +1,5 @@
+summary: GNU version of the tar archiving utility
+webpage: https://www.gnu.org/software/tar
+version: 1.35
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/gtar-1.35-android-aarch64.release.tar.xz
+bin-sha: 84ba8fd418caed0c6290e7a4019fdb5b1dae85f8996919399828b703f3879ea6

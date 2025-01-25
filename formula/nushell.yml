@@ -1,0 +1,5 @@
+summary: A new type of shell
+webpage: https://www.nushell.sh
+version: 0.100.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/nushell-0.100.0-android-27-arm64-v8a.release.tar.xz
+bin-sha: 07ac01ab4577eaa27d7fed9f7f9179d4843a8644caac747bd6a0f26710269dc0

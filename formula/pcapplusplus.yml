@@ -1,0 +1,5 @@
+summary: C++ network sniffing, packet parsing and crafting framework
+webpage: https://pcapplusplus.github.io
+version: 23.09
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/pcapplusplus-23.09-android-27-arm64-v8a.release.tar.xz
+bin-sha: 446cda414bdbf7744c657f93f91fd1aad8b759b98aaf2bbe245ddb06ab3450ca

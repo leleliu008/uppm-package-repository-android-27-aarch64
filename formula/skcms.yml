@@ -1,0 +1,5 @@
+summary: SkCMS
+webpage: https://skia.googlesource.com/skcms.git
+version: 2025.01.24
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/skcms-2025.01.24-android-27-arm64-v8a.release.tar.xz
+bin-sha: 6e3821906e30b2eff6abc1c0d0f357f5600f3081b8e301f4ca8533e87bdb5528

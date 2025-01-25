@@ -1,0 +1,5 @@
+summary: A command-line tool for transferring data from/to an HTTP, HTTPS or FTP server
+webpage: https://curl.haxx.se/
+version: 8.11.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/curl-8.11.1-android-27-arm64-v8a.release.tar.xz
+bin-sha: 44c34ef260b1006fb563c1d326a28726fe6fa46dd80447b701c294a179c72d54

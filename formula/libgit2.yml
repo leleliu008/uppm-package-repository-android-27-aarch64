@@ -1,0 +1,5 @@
+summary: C library of Git core methods that is re-entrant and linkable
+webpage: https://libgit2.github.com
+version: 1.9.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/libgit2-1.9.0-android-27-arm64-v8a.release.tar.xz
+bin-sha: 6981de0fafb8e5964cc39f72f2fdc238c55fe873ebf0fdeacb71521ef0c3ad60

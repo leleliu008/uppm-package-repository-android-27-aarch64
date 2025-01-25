@@ -1,0 +1,5 @@
+summary: Cross-platform make
+webpage: https://www.cmake.org/
+version: 3.30.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/cmake-3.30.3-android-27-arm64-v8a.release.tar.xz
+bin-sha: 0fbaa0b4becac5a1140d60390efcdd800fdb37eb74d428494d22b422855c92c3

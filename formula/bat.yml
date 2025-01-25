@@ -1,0 +1,5 @@
+summary: Clone of cat(1) with syntax highlighting and Git integration
+webpage: https://github.com/sharkdp/bat
+version: 0.25.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/bat-0.25.0-android-27-arm64-v8a.release.tar.xz
+bin-sha: 6a1b1c00cbfa754760e714db53dcf538e585afce5c9b4de81f2939183d62b732

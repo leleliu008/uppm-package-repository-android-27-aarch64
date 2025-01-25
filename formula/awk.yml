@@ -1,0 +1,5 @@
+summary: Text processing scripting language
+webpage: https://www.cs.princeton.edu/~bwk/btl.mirror/
+version: 20240422
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/awk-20240422-android-27-arm64-v8a.release.tar.xz
+bin-sha: fcbd550c1589ffc790bea01702211653529c119a4ef8e27cf980d34c13ccf0d3

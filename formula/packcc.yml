@@ -1,0 +1,5 @@
+summary: A packrat parser generator for C
+webpage: https://github.com/arithy/packcc
+version: 2.0.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-27-aarch64/releases/download/2025.01.25/packcc-2.0.2-android-27-arm64-v8a.release.tar.xz
+bin-sha: 530bbab83d6ac2ba14bd622ab25691c090bf7a7f50b4a8c962bc9231308e689e
